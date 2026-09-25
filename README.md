@@ -31,7 +31,7 @@
 
 ## What is Dhaad?
 
-**Dhaad** is an attempt to build a **unified programming platform** that solves 
+**Dhaad** is a **unified programming platform** that solves 
 the technical fragmentation problem faced by enterprises and nations:
 
 - **15+ languages and platforms** per domain (Python for AI, Q# for Quantum, 
